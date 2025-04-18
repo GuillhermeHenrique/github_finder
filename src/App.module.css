@@ -3,7 +3,14 @@
   margin: 0 auto;
 }
 
-.app h1 {
-  text-align: center;
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-bottom: 1rem;
+}
+
+.icon {
+  margin-right: 10px;
+  font-size: 35px;
 }
